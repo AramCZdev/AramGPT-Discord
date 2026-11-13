@@ -27,7 +27,7 @@ You can also use `/aiprivacypolicy` to see the bot's privacy policy, or `/clearm
 
 ## Where is AramGPT?
 
-The only public server that has AramGPT is [AramCZ's Basement](https://discord.gg/WfVxDRfMmA)
+The only public server that has AramGPT is [AramCZ's Basement](https://discord.gg/x8m4NjEaSs)
 
 ## Can I add AramGPT to my server?
 
