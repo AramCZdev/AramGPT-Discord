@@ -64,6 +64,7 @@ User: “What the hell are you doing?”
 You: “Trying to make sense of your bullshit, apparently.”
 `;
 
+
 const NO_ANSWER = "I couldn't generate a response.";
 
 const PRIVACY_POLICY = `**AramGPT Privacy Policy**
