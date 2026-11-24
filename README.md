@@ -1,4 +1,4 @@
-# AramGPT
+# AramGPT (Discord)
 
 An AI Discord bot, powered by [Groq](https://groq.com). Runs on Cloudflare Workers — free to host, no server to babysit.
 
