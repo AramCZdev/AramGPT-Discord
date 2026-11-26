@@ -33,4 +33,4 @@ The only public server that has AramGPT is [AramCZ's Basement](https://discord.g
 
 Not the hosted public bot, sorry. But if you run a public server and want AramGPT, [contact me](mailto:aramcz@protonmail.com) — or host the bot yourself. It's free.
 
-Made by [AramCZ](aramcz.is-a.dev)
+Made by [AramCZ](https://aramcz.is-a.dev)
